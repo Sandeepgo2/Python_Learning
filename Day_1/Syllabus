@@ -1,1 +1,18 @@
-Working with strings and numbers
+1. Introduction to python, installation and configuration
+2. Working with strings and numbers
+3. Variables
+4. Functions, modules and packages
+5. Environment variables and command line arguments
+6. Operators
+7. Conditonal handling using if, elif and else
+8. Wroking with Lists(part1)
+9. Loops
+10. Working with Lists(part2)
+11. Working with dictionaries and sets
+12. Functions and modules
+13. Functions and modules(part2)
+14. Pyhton libraries for DevOps(patr1)
+15. Pyhton libraries for DevOps(patr2)
+16. Working with restful APIs
+17. Data serialization and configuration files
+18. Automation with cronjobs
