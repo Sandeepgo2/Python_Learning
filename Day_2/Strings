@@ -4,9 +4,9 @@ Text Processing: Python strings are primarily used for text processing. You can 
 
 String Creation: You can create strings in Python by enclosing text in single (' '), double (" "), or triple (''' ''' or """ """) quotes. For example:
 
-```single_quoted = 'This is a single-quoted string.'
+single_quoted = 'This is a single-quoted string.'
 double_quoted = "This is a double-quoted string."
-triple_quoted = '''This is a triple-quoted string.'''
+triple_quoted = '''This is a triple-quoted string.
 
 Concatenation: You can concatenate strings using the '+' operator.
 first_name = "John"
