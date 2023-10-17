@@ -12,3 +12,8 @@ Concatenation: You can concatenate strings using the '+' operator.
 first_name = "John"
 last_name = "Doe"
 full_name = first_name + " " + last_name
+
+String Methods: Python provides a wide range of string methods to manipulate and transform strings, such as lower(), upper(), split(), replace(), and many more.
+text = "Hello, World!"
+lowercase_text = text.lower()
+words = text.split(",")  # Splits the string into a list
