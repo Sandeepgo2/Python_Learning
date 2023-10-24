@@ -20,22 +20,16 @@ words = text.split(",")  # Splits the string into a list
 
 String Indexing and Slicing: You can access individual characters or substrings within a string using indexing and slicing.
 
-python
-Copy code
 text = "Python"
 first_char = text[0]  # Access the first character (P)
 sub_string = text[2:5]  # Access a substring (tho)
 String Formatting: Python supports string formatting using various methods, including f-strings, %-formatting, and the str.format() method.
 
-python
-Copy code
 name = "Alice"
 age = 30
 formatted_string = f"My name is {name} and I am {age} years old."
 String Escaping: You can include special characters within strings using escape sequences. For example, \n represents a newline character, and \" represents a double quote within a double-quoted string.
 
-python
-Copy code
 escaped_string = "This is a double-quoted string with a \" character."
 Regular Expressions: Python's re module allows you to work with regular expressions, which are powerful tools for pattern matching and text manipulation.
 
